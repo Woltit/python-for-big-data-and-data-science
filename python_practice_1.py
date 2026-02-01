@@ -1,0 +1,1 @@
+print("Vladyslav MaievskyiБ, ІПЗ-2")
